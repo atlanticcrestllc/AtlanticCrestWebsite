@@ -60,7 +60,7 @@ function HeroSection() {
       />
 
       {/* Content */}
-      <motion.div className="relative z-10 text-center px-6 max-w-5xl" style={{ opacity }}>
+      <motion.div className="relative z-10 text-center px-6 max-w-5xl pt-20 sm:pt-0" style={{ opacity }}>
         <motion.p
           initial={{ opacity: 0, letterSpacing: '0.5em' }}
           animate={{ opacity: 1, letterSpacing: '0.35em' }}

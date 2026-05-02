@@ -3,6 +3,7 @@ import { HelmetProvider } from 'react-helmet-async'
 import { AnimatePresence } from 'framer-motion'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
+import ScrollToTop from './components/ScrollToTop'
 import Home from './pages/Home'
 import About from './pages/About'
 import Services from './pages/Services'
@@ -31,6 +32,7 @@ export default function App() {
     <HelmetProvider>
       <Router>
         <div className="flex flex-col min-h-screen" style={{ backgroundColor: '#0D0D0D' }}>
+          <ScrollToTop />
           <Navbar />
           <main className="flex-1">
             <AnimatedRoutes />
