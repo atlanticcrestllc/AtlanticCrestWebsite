@@ -120,12 +120,12 @@ export default function Services() {
   return (
     <PageTransition>
       <Helmet>
-        <title>Services | Atlantic Crest LLC — DJ Entertainment & Marketing Consulting</title>
-        <meta name="description" content="Atlantic Crest LLC offers professional DJ and entertainment services for weddings, clubs, and corporate events, plus full-service marketing consulting including social media, brand development, and content creation." />
+        <title>Services | Atlantic Crest — DJ Entertainment & Marketing Consulting</title>
+        <meta name="description" content="Atlantic Crest offers professional DJ and entertainment services for weddings, clubs, and corporate events, plus full-service marketing consulting including social media, brand development, and content creation." />
         <meta name="keywords" content="DJ services Stuart FL, wedding DJ Treasure Coast, marketing consulting Florida, social media management, brand development, corporate events DJ" />
         <link rel="canonical" href="https://atlantic-crest.com/services" />
         <meta property="og:url" content="https://atlantic-crest.com/services" />
-        <meta property="og:title" content="Services | Atlantic Crest LLC — DJ Entertainment & Marketing Consulting" />
+        <meta property="og:title" content="Services | Atlantic Crest — DJ Entertainment & Marketing Consulting" />
         <meta property="og:description" content="Professional DJ services for weddings, clubs, and corporate events plus full-service marketing consulting — social media, brand development, and content creation." />
         <meta property="og:image" content="https://atlantic-crest.com/atlantic-crest-icon.png" />
       </Helmet>

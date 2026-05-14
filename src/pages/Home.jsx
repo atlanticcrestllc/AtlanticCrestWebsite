@@ -205,7 +205,7 @@ function BrandStatement() {
             className="text-base sm:text-lg leading-loose font-light"
             style={{ fontFamily: 'Montserrat, sans-serif', color: 'rgba(229,228,226,0.8)', lineHeight: '2' }}
           >
-            Atlantic Crest LLC is a premier entertainment and marketing consulting firm rooted on Florida's
+            Atlantic Crest is a premier entertainment and marketing consulting firm rooted on Florida's
             Treasure Coast. With decades of combined experience across live events, digital strategy, and brand
             development, we bring an elevated standard to everything we touch —{' '}
             <em style={{ color: '#E5E4E2' }}>from the stage to the screen.</em>
@@ -554,13 +554,13 @@ export default function Home() {
   return (
     <PageTransition>
       <Helmet>
-        <title>Atlantic Crest LLC | Entertainment & Marketing Consulting — Stuart, FL</title>
-        <meta name="description" content="Atlantic Crest LLC — Premier entertainment and marketing consulting firm on Florida's Treasure Coast. 15+ years DJ experience, 7+ years marketing consulting. Based in Stuart, FL." />
-        <meta name="keywords" content="Atlantic Crest LLC, DJ Stuart FL, wedding DJ Treasure Coast, marketing consulting Florida, entertainment consulting Stuart" />
+        <title>Atlantic Crest | Entertainment & Marketing Consulting — Stuart, FL</title>
+        <meta name="description" content="Atlantic Crest — Premier entertainment and marketing consulting firm on Florida's Treasure Coast. 15+ years DJ experience, 7+ years marketing consulting. Based in Stuart, FL." />
+        <meta name="keywords" content="Atlantic Crest, DJ Stuart FL, wedding DJ Treasure Coast, marketing consulting Florida, entertainment consulting Stuart" />
         <link rel="canonical" href="https://atlantic-crest.com/" />
         <meta property="og:url" content="https://atlantic-crest.com/" />
-        <meta property="og:title" content="Atlantic Crest LLC | Entertainment & Marketing Consulting — Stuart, FL" />
-        <meta property="og:description" content="Atlantic Crest LLC — Premier entertainment and marketing consulting firm on Florida's Treasure Coast. 15+ years DJ experience, 7+ years marketing consulting." />
+        <meta property="og:title" content="Atlantic Crest | Entertainment & Marketing Consulting — Stuart, FL" />
+        <meta property="og:description" content="Atlantic Crest — Premier entertainment and marketing consulting firm on Florida's Treasure Coast. 15+ years DJ experience, 7+ years marketing consulting." />
         <meta property="og:image" content="https://atlantic-crest.com/atlantic-crest-icon.png" />
       </Helmet>
       <HeroSection />

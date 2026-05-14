@@ -141,12 +141,12 @@ export default function Gallery() {
   return (
     <PageTransition>
       <Helmet>
-        <title>Gallery | Atlantic Crest LLC — Event Photos & Marketing</title>
-        <meta name="description" content="Browse the Atlantic Crest LLC gallery — DJ performances, private events, corporate events, marketing campaigns, and international shows across the Treasure Coast and beyond." />
+        <title>Gallery | Atlantic Crest — Event Photos & Marketing</title>
+        <meta name="description" content="Browse the Atlantic Crest gallery — DJ performances, private events, corporate events, marketing campaigns, and international shows across the Treasure Coast and beyond." />
         <meta name="keywords" content="Atlantic Crest gallery, DJ photos Florida, event photography Treasure Coast, marketing content, Stuart FL events" />
         <link rel="canonical" href="https://atlantic-crest.com/gallery" />
         <meta property="og:url" content="https://atlantic-crest.com/gallery" />
-        <meta property="og:title" content="Gallery | Atlantic Crest LLC — Event Photos & Marketing" />
+        <meta property="og:title" content="Gallery | Atlantic Crest — Event Photos & Marketing" />
         <meta property="og:description" content="Browse DJ performances, private events, corporate events, marketing campaigns, and international shows across the Treasure Coast and beyond." />
         <meta property="og:image" content="https://atlantic-crest.com/atlantic-crest-icon.png" />
       </Helmet>

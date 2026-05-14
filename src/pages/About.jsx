@@ -20,13 +20,13 @@ export default function About() {
   return (
     <PageTransition>
       <Helmet>
-        <title>About Atlantic Crest LLC | Premium Entertainment & Marketing — Stuart, FL</title>
-        <meta name="description" content="Learn about Atlantic Crest LLC — a premier entertainment and marketing consulting firm with 15+ years of DJ experience and 7+ years of marketing expertise based in Stuart, FL." />
-        <meta name="keywords" content="about Atlantic Crest LLC, DJ history Florida, entertainment company Stuart, marketing consulting Treasure Coast" />
+        <title>About Atlantic Crest | Premium Entertainment & Marketing — Stuart, FL</title>
+        <meta name="description" content="Learn about Atlantic Crest — a premier entertainment and marketing consulting firm with 15+ years of DJ experience and 7+ years of marketing expertise based in Stuart, FL." />
+        <meta name="keywords" content="about Atlantic Crest, DJ history Florida, entertainment company Stuart, marketing consulting Treasure Coast" />
         <link rel="canonical" href="https://atlantic-crest.com/about" />
         <meta property="og:url" content="https://atlantic-crest.com/about" />
-        <meta property="og:title" content="About Atlantic Crest LLC | Premium Entertainment & Marketing — Stuart, FL" />
-        <meta property="og:description" content="Atlantic Crest LLC — 15+ years of DJ experience and 7+ years of marketing expertise based in Stuart, FL on Florida's Treasure Coast." />
+        <meta property="og:title" content="About Atlantic Crest | Premium Entertainment & Marketing — Stuart, FL" />
+        <meta property="og:description" content="Atlantic Crest — 15+ years of DJ experience and 7+ years of marketing expertise based in Stuart, FL on Florida's Treasure Coast." />
         <meta property="og:image" content="https://atlantic-crest.com/atlantic-crest-icon.png" />
       </Helmet>
 
@@ -84,7 +84,7 @@ export default function About() {
                   style={{ fontFamily: 'Montserrat, sans-serif', color: 'rgba(229,228,226,0.75)' }}
                 >
                   <p>
-                    Atlantic Crest LLC was built on one simple belief — that every event deserves a world-class
+                    Atlantic Crest was built on one simple belief — that every event deserves a world-class
                     experience and every brand deserves a powerful voice.
                   </p>
                   <p>
@@ -100,7 +100,7 @@ export default function About() {
                     takes to build a presence that not only looks good — but converts, engages, and grows.
                   </p>
                   <p>
-                    Based on Florida's Treasure Coast in <strong style={{ color: '#E5E4E2' }}>Stuart, FL</strong>, Atlantic Crest LLC serves clients
+                    Based on Florida's Treasure Coast in <strong style={{ color: '#E5E4E2' }}>Stuart, FL</strong>, Atlantic Crest serves clients
                     locally, regionally, and globally. We are not just a service provider — we are a creative
                     partner invested in your success.
                   </p>
@@ -271,7 +271,7 @@ export default function About() {
               className="mt-6 text-xs tracking-[0.3em] uppercase"
               style={{ fontFamily: 'Montserrat, sans-serif', color: 'rgba(229,228,226,0.35)' }}
             >
-              Atlantic Crest LLC
+              Atlantic Crest
             </p>
           </div>
         </SectionReveal>

@@ -103,13 +103,13 @@ export default function Contact() {
   return (
     <PageTransition>
       <Helmet>
-        <title>Contact Atlantic Crest LLC | Book a DJ or Marketing Consultation — Stuart, FL</title>
-        <meta name="description" content="Contact Atlantic Crest LLC to book DJ entertainment services or schedule a marketing consulting session. Based in Stuart, FL serving the Treasure Coast and beyond." />
+        <title>Contact Atlantic Crest | Book a DJ or Marketing Consultation — Stuart, FL</title>
+        <meta name="description" content="Contact Atlantic Crest to book DJ entertainment services or schedule a marketing consulting session. Based in Stuart, FL serving the Treasure Coast and beyond." />
         <meta name="keywords" content="contact Atlantic Crest, book DJ Stuart FL, marketing consultation Treasure Coast, book entertainment Florida" />
         <link rel="canonical" href="https://atlantic-crest.com/contact" />
         <meta property="og:url" content="https://atlantic-crest.com/contact" />
-        <meta property="og:title" content="Contact Atlantic Crest LLC | Book a DJ or Marketing Consultation" />
-        <meta property="og:description" content="Book DJ entertainment or schedule a marketing consulting session with Atlantic Crest LLC. Based in Stuart, FL serving the Treasure Coast and beyond." />
+        <meta property="og:title" content="Contact Atlantic Crest | Book a DJ or Marketing Consultation" />
+        <meta property="og:description" content="Book DJ entertainment or schedule a marketing consulting session with Atlantic Crest. Based in Stuart, FL serving the Treasure Coast and beyond." />
         <meta property="og:image" content="https://atlantic-crest.com/atlantic-crest-icon.png" />
       </Helmet>
 
@@ -170,7 +170,7 @@ export default function Contact() {
                   className="text-2xl font-bold text-white mb-4"
                   style={{ fontFamily: 'Cinzel, serif' }}
                 >
-                  Atlantic Crest LLC
+                  Atlantic Crest
                 </h2>
                 <p
                   className="text-sm leading-relaxed mb-10"
@@ -279,7 +279,7 @@ export default function Contact() {
                     className="text-xs mt-3 tracking-wider"
                     style={{ fontFamily: 'Montserrat, sans-serif', color: 'rgba(229,228,226,0.35)' }}
                   >
-                    — ATLANTIC CREST LLC
+                    — ATLANTIC CREST
                   </p>
                 </div>
               </div>

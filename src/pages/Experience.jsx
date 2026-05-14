@@ -48,13 +48,13 @@ export default function Experience() {
   return (
     <PageTransition>
       <Helmet>
-        <title>Experience | Atlantic Crest LLC — International DJ & Marketing Consulting</title>
-        <meta name="description" content="Atlantic Crest LLC brings entertainment and marketing expertise to the Treasure Coast, across Florida, nationally, and internationally. 15+ years of proven performance." />
+        <title>Experience | Atlantic Crest — International DJ & Marketing Consulting</title>
+        <meta name="description" content="Atlantic Crest brings entertainment and marketing expertise to the Treasure Coast, across Florida, nationally, and internationally. 15+ years of proven performance." />
         <meta name="keywords" content="Atlantic Crest experience, international DJ Florida, entertainment Treasure Coast, marketing consulting nationwide, Stuart FL events" />
         <link rel="canonical" href="https://atlantic-crest.com/experience" />
         <meta property="og:url" content="https://atlantic-crest.com/experience" />
-        <meta property="og:title" content="Experience | Atlantic Crest LLC — International DJ & Marketing Consulting" />
-        <meta property="og:description" content="From the Treasure Coast to international stages — Atlantic Crest LLC brings 15+ years of entertainment and marketing expertise everywhere they go." />
+        <meta property="og:title" content="Experience | Atlantic Crest — International DJ & Marketing Consulting" />
+        <meta property="og:description" content="From the Treasure Coast to international stages — Atlantic Crest brings 15+ years of entertainment and marketing expertise everywhere they go." />
         <meta property="og:image" content="https://atlantic-crest.com/atlantic-crest-icon.png" />
       </Helmet>
 
@@ -111,7 +111,7 @@ export default function Experience() {
               className="text-base sm:text-lg leading-loose font-light"
               style={{ fontFamily: 'Montserrat, sans-serif', color: 'rgba(229,228,226,0.75)', lineHeight: '1.9' }}
             >
-              Atlantic Crest LLC has had the privilege of bringing elevated entertainment and strategic marketing to
+              Atlantic Crest has had the privilege of bringing elevated entertainment and strategic marketing to
               clients across the Treasure Coast, throughout Florida, across the United States, and on the{' '}
               <span style={{ color: '#E5E4E2', fontStyle: 'italic' }}>international stage</span>.
               Each engagement has sharpened our craft, broadened our perspective, and deepened our commitment to delivering

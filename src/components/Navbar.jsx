@@ -49,12 +49,6 @@ export default function Navbar() {
             >
               ATLANTIC CREST
             </span>
-            <span
-              className="text-xs tracking-[0.3em] font-light"
-              style={{ color: '#E5E4E2', fontFamily: 'Montserrat, sans-serif', opacity: 0.7 }}
-            >
-              LLC
-            </span>
           </Link>
 
           {/* Desktop Nav Links */}

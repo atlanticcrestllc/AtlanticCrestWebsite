@@ -1,5 +1,5 @@
 /**
- * Atlantic Crest LLC — Sanity CMS Schema
+ * Atlantic Crest — Sanity CMS Schema
  *
  * SETUP INSTRUCTIONS
  * ──────────────────

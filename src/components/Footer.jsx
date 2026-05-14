@@ -43,7 +43,7 @@ export default function Footer() {
             <div className="mb-4">
               <img
                 src="/atlantic-crest-icon.png"
-                alt="Atlantic Crest LLC"
+                alt="Atlantic Crest"
                 className="h-14 w-auto mb-3"
               />
               <span
@@ -51,12 +51,6 @@ export default function Footer() {
                 style={{ fontFamily: 'Cinzel, serif', letterSpacing: '0.15em' }}
               >
                 ATLANTIC CREST
-              </span>
-              <span
-                className="text-xs tracking-[0.3em] font-light block mt-0.5"
-                style={{ color: '#E5E4E2', fontFamily: 'Montserrat, sans-serif', opacity: 0.5 }}
-              >
-                LLC
               </span>
             </div>
             <p
@@ -208,7 +202,7 @@ export default function Footer() {
             className="text-xs"
             style={{ fontFamily: 'Montserrat, sans-serif', color: 'rgba(229,228,226,0.35)' }}
           >
-            © 2025 Atlantic Crest LLC. All Rights Reserved. Stuart, FL
+            © 2025 Atlantic Crest. All Rights Reserved. Stuart, FL
           </p>
           <p
             className="text-xs"
